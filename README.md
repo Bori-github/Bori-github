@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://velog.io/@qhflrnfl4324"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+  
+#### SKILLS
+<img src="https://img.shields.io/badge/-HTML-%23E34F26?logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS-%231572B6?logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bori-github&layout=compact)](https://github.com/Bori-github/github-readme-stats)
+
+
+  
