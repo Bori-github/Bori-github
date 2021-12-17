@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://velog.io/@qhflrnfl4324"><img src="https://img.shields.io/badge/velog-1DBF73?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
+<!-- 
 <a href="https://github.com/Bori-github" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white/>
 </a>  
-  
+-->  
 #### :seedling: SKILLS
 <img src="https://img.shields.io/badge/-HTML-%23E34F26?logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS-%231572B6?logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white"/>
 
